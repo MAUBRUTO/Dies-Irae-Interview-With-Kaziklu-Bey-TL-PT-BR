@@ -1,6 +1,7 @@
 # Dies-Irae-Interview-With-Kaziklu-Bey-TL-PT-BR
 Tradução de Ikabey do japonês para Português Brasileiro.
-Os conteúdos da tradução são os seguintes:
+ 
+ Os conteúdos da tradução são os seguintes:
  - Conformidade com: **Os nomes originais dos personagens** (Com o que Masada abordou em Ômega Ewigkeit Art-Book)
  - Conformidade com: **Tradução das falas de Matusalém** (Em relação a pronúncia de seus feitiços)
  - Preserva: **Nuances originais em relação a certos conceitos** (Hadou, Gudou, Eras, etc.)
