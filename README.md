@@ -1,4 +1,4 @@
-# Dies-Irae-Interview-With-Kaziklu-Bey-TL-PT-BR
+# Akebono-TL’s-Ikabey-PT-BR
 Tradução de Ikabey do japonês para Português Brasileiro.
  
  Os conteúdos da tradução são os seguintes:
