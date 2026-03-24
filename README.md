@@ -7,4 +7,4 @@ Os conteúdos da tradução são os seguintes:
  - Preserva: **Rubys originais** (Que falam sobre os conceitos da obra de forma mais ampla)
  - Adiciona: **Referências a conceitos de outras obras** (Visual Novel PARADISE LOST, Light Novel Walküre, Light Novel Avesta Of Black And White, etc.)
  - Adiciona: **Tradução de menu, imagens do menu**
- - Exclui: **Falas inexistentes no script original, Fuck-Hell-Bitch-Shit**
+ - Exclui: **Falas inexistentes no script original, Fuck-Hell-Bitch-Shit, etc.**
