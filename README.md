@@ -20,7 +20,9 @@ Mais ou menos 80% do jogo base traduzido. Katyn e o confronto final já estão i
 # Créditos aos colaboradores
 **Tradução:**
 [Muzan-Muki. AKA: Suzume-ofc](https://github.com/Suzume-ofc)
+
 **Revisão por:**
 [MAUBRUTO](https://github.com/settings/profile)
+
 **Código e Aplicação por:**
 Its_The_Dudas
