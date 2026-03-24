@@ -10,4 +10,4 @@ Tradução de Ikabey do japonês para Português Brasileiro.
  - Preserva: **Termos relacionados a personagens** (Ougon, Nayuta, etc.)
  - Adiciona: **Referências a conceitos de outras obras** (Visual Novel [PARADISE LOST](https://www.light.gr.jp/light/products/paradiselost/), Light Novel **Walküre**, Light/Visual Novel [Avesta Of Black And White](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://store.steampowered.com/app/2747760/_Refusal/&ved=2ahUKEwjViLeu2biTAxXSFLkGHfm0CeYQFnoECBAQAQ&usg=AOvVaw3DUZe_ccWklgXZqbwsXZ4v), etc.)
  - Adiciona: **Tradução de menu, imagens do menu**
- - Exclui: **Falas inexistentes no script original, Fuck-Hell-Bitch-Shit, etc.**
+ - Exclui: **Falas inexistentes no script original, Fuck-Hell-Bitch-Shit-Dumb, etc.**
