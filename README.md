@@ -13,7 +13,7 @@ Tradução de Ikabey do japonês para Português Brasileiro.
  - Exclui: **Falas inexistentes em relação ao script original**, ``Fuck-Hell-Bitch-Shit-Dumb``, etc.
 
 # Andamento da Tradução
-Mais ou menos 80% do jogo base traduzido. Katyn, Wilhelm vs Machina vs Schreiber e o final completo já estão inteiramente aplicados. O meio do jogo está em processo de aplicação.
+Jogo totalmente traduzido, no último estágio de revisão.
 
 # Meio de Instalação
 
