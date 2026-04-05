@@ -27,5 +27,7 @@ Jogo totalmente traduzido, no último estágio de revisão.
 - **Código e Aplicação por:**
 Its_The_Dudas
 
+- **Aplicação de Rubys e Auxílio nos códigos por:**
+[OMateus](https://github.com/0Mateus)
 # Notas do grupo
 Originalmente planejávamos iniciar e terminar este patch em dezembro de 2025, a partir de 13/12 (época em que terminamos de traduzir a LN de Avesta). Apesar disso, acabamos ficando sem contato com o programador por bons quatro meses, então estamos retomando tudo agora.
