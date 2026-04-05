@@ -30,6 +30,8 @@ Its_The_Dudas
 - **Aplicação de Rubys e Auxílio nos códigos por:**
   [0Mateus](https://github.com/0Mateus)
 
+- **Tradução de Menu, Tradução de Imagens e aplicações por:** <a href="https://github.com/kikachangames"><ruby>kikachangames<rt>Manolo-Chan</rt></ruby></a>
+
 - **Agradecimentos especiais:**
   1. [Crsky](https://github.com/crskycode/Malie_Script_Tool) (Malie ScriptTool)
   2. [satan53x](https://github.com/satan53x/SExtractor) (Malie's packer)
