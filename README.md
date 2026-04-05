@@ -28,6 +28,10 @@ Jogo totalmente traduzido, no último estágio de revisão.
 Its_The_Dudas
 
 - **Aplicação de Rubys e Auxílio nos códigos por:**
-[OMateus](https://github.com/0Mateus)
+  [0Mateus](https://github.com/0Mateus)
+
+- **Agradecimentos especiais:**
+  1. [Crsky](https://github.com/crskycode/Malie_Script_Tool) (Malie ScriptTool)
+  2. [satan53x](https://github.com/satan53x/SExtractor) (Malie's packer)
 # Notas do grupo
 Originalmente planejávamos iniciar e terminar este patch em dezembro de 2025, a partir de 13/12 (época em que terminamos de traduzir a LN de Avesta). Apesar disso, acabamos ficando sem contato com o programador por bons quatro meses, então estamos retomando tudo agora.
