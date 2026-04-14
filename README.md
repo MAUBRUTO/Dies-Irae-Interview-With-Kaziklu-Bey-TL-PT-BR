@@ -16,7 +16,14 @@ Tradução de Ikabey do japonês para Português Brasileiro.
 Jogo totalmente traduzido, no último estágio de revisão.
 
 # Meio de Instalação
-
+Estarei disponibilizando [o jogo para baixar](https://gofile.io/d/sYaiHg) e então vocês poderão aplicar o patch referente às 12 horas completas de jogatina com o **exec.dat** que subi recentemente no ``main`` lá em cima.
+- Para a aplicação do patch, é necessário seguir essas etapas abaixo:
+  1. Abra o link referente ao jogo e baixe-o.
+  2. Extraia o conteúdo zipado e então procure pela pasta de Ikabey.
+  3. Após encontrar a pasta, você irá pegar o **exec.dat** que baixou daqui e irá clicar para copiar ele (basicamente um CTRL C)
+  4. Feito isso, abra a pasta de Ikabey, e procure dentro dela uma pasta **data**.
+  5. Você irá seguir exatamente nessa ordem ``Data/System``. Na pasta System, haverá um arquivo nomeado **exec.dat** que é referente ao jogo, você deve substituir esse arquivo pelo **exec.dat** que baixou, selecionando ele e então clicando para colar (clique em **"confirmar"** no aviso que aparece perguntando se você quer substituir o arquivo). Feito isso, ele vai carregar e então a tradução estará aplicada.
+  6. Agora é só se divertir.
 # Créditos aos colaboradores
 - **Tradução por:**
 <a href="https://github.com/Suzume-ofc"><ruby>Muzan-Muki<rt>Suzume-ofc</rt></ruby></a>
