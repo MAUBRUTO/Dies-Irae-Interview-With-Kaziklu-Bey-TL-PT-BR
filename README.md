@@ -42,5 +42,6 @@ Its_The_Dudas
 - **Agradecimentos especiais:**
   1. [Crsky](https://github.com/crskycode/Malie_Script_Tool) (Malie ScriptTool)
   2. [satan53x](https://github.com/satan53x/SExtractor) (Malie's packer)
+  3. [GARbro](https://github.com/crskycode/GARbro) (Recursos gerais de aplicação)
 # Notas do grupo
 Originalmente planejávamos iniciar e terminar este patch em dezembro de 2025, a partir de 13/12 (época em que terminamos de traduzir a LN de Avesta). Apesar disso, acabamos ficando sem contato com o programador por bons quatro meses, então estamos retomando tudo agora.
