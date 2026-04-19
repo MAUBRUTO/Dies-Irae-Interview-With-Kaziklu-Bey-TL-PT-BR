@@ -18,7 +18,7 @@ Tradução de Ikabey do japonês para Português Brasileiro.
 Jogo totalmente traduzido, no último estágio de revisão.
 
 # Meio de Instalação
-Estarei disponibilizando o Instalador necessário referente às 12 horas de aplicação do jogo e distribuição da tradução para você aplicar no seu próprio jogo atual. Dentro do próprio Instalador já está referido e explicado tudo o que se deve fazer para mexer na tradução, porém irei dar um breve resumo:
+Estarei disponibilizando o Instalador necessário referente às 12 horas de aplicação do jogo e distribuição da tradução para você aplicar no seu próprio jogo atual. Dentro do próprio Instalador já referido, está explicado tudo o que se deve fazer para mexer na tradução, porém irei dar um breve resumo:
  1. Caso você tenha Ikabey original, abra o instalador normalmente. Caso não, primeiro extraia o conteúdo do jogo de onde Ikabey está "zipado" ou guardado (caso você já tenha feito isso antes, é melhor ainda porque aí agiliza o processo).
  2. No Instalador, vocês irão clicar na parte de `"Procurar"` e assim vão atrás da pasta de Ikabey que vocês extraíram.
  3. Para aqueles que não possuem o Ikabey original, pode ser que a pasta esteja escrita assim: `"Interview.With.Kaziklu.Bey"`, clique na pasta para mostrar as opções dentro dela, **vocês devem selecionar a pasta que não está com nenhum desses pontos finais e nenhuma palavra junta**.
