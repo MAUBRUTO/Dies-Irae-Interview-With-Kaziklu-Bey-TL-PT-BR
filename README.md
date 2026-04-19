@@ -24,7 +24,7 @@ Estarei disponibilizando o Instalador necessário referente às 12 horas de apli
  3. Para aqueles que não possuem o Ikabey original, pode ser que a pasta esteja escrita assim: `"Interview.With.Kaziklu.Bey"`, clique na pasta para mostrar as opções dentro dela, **vocês devem selecionar a pasta que não está com nenhum desses pontos finais e nenhuma palavra junta**.
  4. Após selecionar essa pasta, cliquem em `"OK"` e depois em `"Instalar"`, o jogo irá aplicar a tradução e substituir os arquivos originais em inglês do seu jogo atual pelos textos e modificações em português, não leva nem 10 minutos (se seu Pc for bom).
  5. Após isso, o jogo irá abrir automaticamente. Agora é só aproveitar!
-
+----
 <p align="Center">⚠️Aviso geral⚠️</p>
 
 Pode ser que o seu arquivo do Instalador mostre um aviso assim: 
@@ -36,6 +36,7 @@ Caso o arquivo mostre algo assim:
  -> **Arquivo Data.dat não encontrado/detectado**
 
 - Aí é porque você realmente fez alguma merda na sua própria pasta do jogo que está fazendo com que a principal mudança não ocorra. Para resolver, o mais comum é só baixar o jogo de novo e tentar mais uma vez, não se preocupe pq o seu save e conquistas não são perdidos.
+----
 # Créditos aos colaboradores
 - **Tradução por:**
 <a href="https://github.com/Suzume-ofc"><ruby>Muzan-Muki<rt>Suzume-ofc</rt></ruby></a>
