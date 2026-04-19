@@ -25,7 +25,8 @@ Estarei disponibilizando o Instalador necessário referente às 12 horas de apli
  4. Após selecionar essa pasta, cliquem em `"OK"` e depois em `"Instalar"`, o jogo irá aplicar a tradução e substituir os arquivos originais em inglês do seu jogo atual pelos textos e modificações em português, não leva nem 10 minutos (se seu Pc for bom).
  5. Após isso, o jogo irá abrir automaticamente. Agora é só aproveitar!
 
-⚠️ Aviso geral ⚠️:
+<p align="Center">⚠️Aviso geral⚠️</p>
+
 Pode ser que o seu arquivo do Instalador mostre um aviso assim: 
  -> **"Arquivo Malie.exe não detectado/encontrado"**
 
