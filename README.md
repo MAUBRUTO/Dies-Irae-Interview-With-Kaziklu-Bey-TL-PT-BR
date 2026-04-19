@@ -2,6 +2,8 @@
 Tradução de Ikabey do japonês para Português Brasileiro.
  
  Os conteúdos da tradução são os seguintes:
+ - Tradução da opening (**Der Vampir**) com legendas e tradução dos créditos finais com equipe de tradução.
+ - Tradução de imagens integradas na transição de uma cena para a outra (**Interview With Kaziklu Bey** -> **Entrevista com o Vampiro**. **Angel In The Rosenkranz** -> **Anjo do Rosário**)
  - Conformidade com: **Os nomes originais dos personagens** (Com o que Masada abordou em `Ômega Ewigkeit Art-Book`)
  - Conformidade com: **Tradução das falas de Matusalém** (Em relação a pronúncia de seus feitiços)
  - Preserva: **Nuances originais em relação a certos conceitos** (`Hadou, Gudou, Eras, etc.`)
@@ -16,14 +18,23 @@ Tradução de Ikabey do japonês para Português Brasileiro.
 Jogo totalmente traduzido, no último estágio de revisão.
 
 # Meio de Instalação
-Estarei disponibilizando [o jogo para baixar](https://gofile.io/d/sYaiHg) e então vocês poderão aplicar o patch referente às 12 horas completas de jogatina com o **exec.dat** que subi recentemente no ``main`` lá em cima.
-- Para a aplicação do patch, é necessário seguir essas etapas abaixo:
-  1. Abra o link referente ao jogo e baixe-o.
-  2. Extraia o conteúdo zipado e então procure pela pasta de Ikabey.
-  3. Após encontrar a pasta, você irá pegar o **exec.dat** que baixou daqui e irá clicar para copiar ele (basicamente um CTRL C)
-  4. Feito isso, abra a pasta de Ikabey, e procure dentro dela uma pasta **data**.
-  5. Você irá seguir exatamente nessa ordem ``Data/System``. Na pasta System, haverá um arquivo nomeado **exec.dat** que é referente ao jogo, você deve substituir esse arquivo pelo **exec.dat** que baixou, selecionando ele e então clicando para colar (clique em **"confirmar"** no aviso que aparece perguntando se você quer substituir o arquivo). Feito isso, ele vai carregar e então a tradução estará aplicada.
-  6. Agora é só se divertir.
+Estarei disponibilizando o Instalador necessário referente às 12 horas de aplicação do jogo e distribuição da tradução para você aplicar no seu próprio jogo atual. Dentro do próprio Instalador já está referido e explicado tudo o que se deve fazer para mexer na tradução, porém irei dar um breve resumo:
+ 1. Caso você tenha Ikabey original, abra o instalador normalmente. Caso não, primeiro extraia o conteúdo do jogo de onde Ikabey está "zipado" ou guardado (caso você já tenha feito isso antes, é melhor ainda porque aí agiliza o processo).
+ 2. No Instalador, vocês irão clicar na parte de `"Procurar"` e assim vão atrás da pasta de Ikabey que vocês extraíram.
+ 3. Para aqueles que não possuem o Ikabey original, pode ser que a pasta esteja escrita assim: `"Interview.With.Kaziklu.Bey"`, clique na pasta para mostrar as opções dentro dela, **vocês devem selecionar a pasta que não está com nenhum desses pontos finais e nenhuma palavra junta**.
+ 4. Após selecionar essa pasta, cliquem em `"OK"` e depois em `"Instalar"`, o jogo irá aplicar a tradução e substituir os arquivos originais em inglês do seu jogo atual pelos textos e modificações em português, não leva nem 10 minutos (se seu Pc for bom).
+ 5. Após isso, o jogo irá abrir automaticamente. Agora é só aproveitar!
+
+⚠️ Aviso geral ⚠️:
+Pode ser que o seu arquivo do Instalador mostre um aviso assim: 
+ -> **"Arquivo Malie.exe não detectado/encontrado"**
+
+- Isso irá acontecer se você você tiver escolhido a pasta errada, como eu disse anteriormente que você deve escolher a pasta sem pontos finais e com nenhuma palavra junta, não se preocupe pq não é nada de errado com seu jogo, foi só a sua opção incorreta mesmo.
+
+Caso o arquivo mostre algo assim:
+ -> **Arquivo Data.dat não encontrado/detectado**
+
+- Aí é porque você realmente fez alguma merda na sua própria pasta do jogo que está fazendo com que a principal mudança não ocorra. Para resolver, o mais comum é só baixar o jogo de novo e tentar mais uma vez, não se preocupe pq o seu save e conquistas não são perdidos.
 # Créditos aos colaboradores
 - **Tradução por:**
 <a href="https://github.com/Suzume-ofc"><ruby>Muzan-Muki<rt>Suzume-ofc</rt></ruby></a>
@@ -44,4 +55,8 @@ Its_The_Dudas
   2. [satan53x](https://github.com/satan53x/SExtractor) (Malie's packer)
   3. [GARbro](https://github.com/crskycode/GARbro) (Recursos gerais de aplicação)
 # Notas do grupo
-Originalmente planejávamos iniciar e terminar este patch em dezembro de 2025, a partir de 13/12 (época em que terminamos de traduzir a LN de Avesta). Apesar disso, acabamos ficando sem contato com o programador por bons quatro meses, então estamos retomando tudo agora.
+Originalmente planejávamos iniciar e terminar este patch em dezembro de 2025, a partir de 13/12 (época em que terminamos de traduzir a LN de Avesta). Apesar disso, acabamos ficando sem contato com o programador por bons quatro meses, então estamos retomando tudo agora. 
+
+>**TODOS OS CRÉDITOS DO JOGO E CONTEÚDO DA VISUAL NOVEL VÃO PARA SUAS RESPECTIVAS DISTRIBUIDORAS:**
+ 1. light
+ 2. Greenwood Co., Ltd.
