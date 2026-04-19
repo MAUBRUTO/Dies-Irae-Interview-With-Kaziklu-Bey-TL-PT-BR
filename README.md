@@ -42,7 +42,7 @@ Caso o arquivo mostre algo assim:
 <a href="https://github.com/Suzume-ofc"><ruby>Muzan-Muki<rt>Suzume-ofc</rt></ruby></a>
 
 - **Revisão por:**
-[MAUBRUTO](https://github.com/settings/profile)
+[MAUBRUTO](https://github.com/MAUBRUTO)
 
 - **Código e Aplicação por:**
 Its_The_Dudas
