@@ -41,7 +41,7 @@ Caso o arquivo mostre algo assim:
 - **Tradução por:**
 <a href="https://github.com/Suzume-ofc"><ruby>Muzan-Muki<rt>Suzume-ofc</rt></ruby></a>
 
-- **Revisão por:**
+- **Revisão do script e aplicação no script por:**
 [MAUBRUTO](https://github.com/MAUBRUTO)
 
 - **Código e Aplicação por:**
