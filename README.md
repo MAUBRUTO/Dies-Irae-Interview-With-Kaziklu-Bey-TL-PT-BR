@@ -1,6 +1,9 @@
 # Akebono-TL’s-Ikabey-PT-BR
 Tradução de Ikabey do japonês para Português Brasileiro.
- 
+
+ <details>
+  <summary>Clique aqui para abrir conteúdo da tradução</summary>
+
  Os conteúdos da tradução são os seguintes:
  - Tradução da opening (**Der Vampir**) com legendas e tradução dos créditos finais com equipe de tradução.
  - Tradução de imagens integradas na transição de uma cena para a outra (**Interview With Kaziklu Bey** -> **Entrevista com o Vampiro**. **Angel In The Rosenkranz** -> **Anjo do Rosário**)
@@ -13,6 +16,8 @@ Tradução de Ikabey do japonês para Português Brasileiro.
  - Adiciona: **Referências a conceitos e nuances de outras obras presentes no script original** (Visual Novel [PARADISE LOST](https://www.light.gr.jp/light/products/paradiselost/), Light Novel **Walküre** e **Operação Antropoide**, Light/Visual Novel [Avesta Of Black And White](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://store.steampowered.com/app/2747760/_Refusal/&ved=2ahUKEwjViLeu2biTAxXSFLkGHfm0CeYQFnoECBAQAQ&usg=AOvVaw3DUZe_ccWklgXZqbwsXZ4v), etc.)
  - Adiciona: **Tradução de menu, imagens do menu, Tradução do glossário e Tradução de configurações.**
  - Exclui: **Falas inexistentes em relação ao script original**, ``Fuck-Hell-Bitch-Shit-Dumb``, etc.
+
+</details>
 
 # Andamento da Tradução
 Jogo totalmente traduzido, no último estágio de revisão.
