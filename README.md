@@ -35,7 +35,7 @@ Estarei disponibilizando o Instalador necessário referente às 12 horas de apli
 Pode ser que o seu arquivo do Instalador mostre um aviso assim: 
  -> **"Arquivo Malie.exe não detectado/encontrado"**
 
-- Isso irá acontecer se você você tiver escolhido a pasta errada, como eu disse anteriormente que você deve escolher a pasta sem pontos finais e com nenhuma palavra junta, não se preocupe pq não é nada de errado com seu jogo, foi só a sua opção incorreta mesmo.
+- Isso irá acontecer se você você tiver escolhido a pasta errada. Como eu disse anteriormente, você deve escolher a pasta sem pontos finais e com nenhuma palavra junta, não se preocupe pq não é nada de errado com seu jogo, foi só a sua opção incorreta mesmo.
 
 Caso o arquivo mostre algo assim:
  -> **Arquivo Data.dat não encontrado/detectado**
