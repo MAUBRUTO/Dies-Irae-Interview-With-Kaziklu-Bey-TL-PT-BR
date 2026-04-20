@@ -1,5 +1,5 @@
 # Akebono-TL’s-Ikabey-PT-BR
-Tradução de Ikabey do japonês para Português Brasileiro.
+Tradução de Ikabey do japonês para Português Brasileiro. Compatível com a versão da Steam.
 
  <details>
   <summary>Clique aqui para abrir/fechar conteúdo da tradução</summary>
