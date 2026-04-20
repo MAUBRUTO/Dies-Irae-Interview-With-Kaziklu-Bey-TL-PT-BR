@@ -2,7 +2,7 @@
 Tradução de Ikabey do japonês para Português Brasileiro.
 
  <details>
-  <summary>Clique aqui para abrir conteúdo da tradução</summary>
+  <summary>Clique aqui para abrir/fechar conteúdo da tradução</summary>
 
  Os conteúdos da tradução são os seguintes:
  - Tradução da opening (**Der Vampir**) com legendas e tradução dos créditos finais com equipe de tradução.
