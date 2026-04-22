@@ -50,7 +50,7 @@ Caso o arquivo mostre algo assim:
 [MAUBRUTO](https://github.com/MAUBRUTO)
 
 - **Código e Aplicação por:**
-Its_The_Dudas
+  [SheIsDudas](https://github.com/SheIsDudas)
 
 - **Aplicação de Rubys e Auxílio nos códigos por:**
   [0Mateus](https://github.com/0Mateus)
