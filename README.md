@@ -6,7 +6,7 @@
 
 ## 📋 Resumo
 
-- **Status**: Jogo totalmente traduzido, no último estágio de revisão
+- **Status**: Jogo totalmente traduzido
 - **Conteúdo**: Opening, cenas, menus, imagens, glossário e configurações
 - **Compatibilidade**: Steam version
 
